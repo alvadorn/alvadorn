@@ -1,7 +1,7 @@
 # Myself
 
-- **en**: hello guys, my name is Igor Sant'Ana aka **Alvadorn**. You can see more about me and my blogposts on my [website](www.alvadorn.com.br)
-- **pt**: Oi pessoal, meu nome é Igor Sant'Ana, mais conhecido como **Alvadorn**. Você pode ver mais coisas sobre eu e meu blog no meu [site](www.alvadorn.com.br)
+- **en**: hello guys, my name is Igor Sant'Ana aka **Alvadorn**. You can see more about me and my blogposts on my [website](https://www.alvadorn.com.br/blog/)
+- **pt**: Oi pessoal, meu nome é Igor Sant'Ana, mais conhecido como **Alvadorn**. Você pode ver mais coisas sobre eu e meu blog no meu [site](https://www.alvadorn.com.br/)
 
 <!--
 **alvadorn/alvadorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
